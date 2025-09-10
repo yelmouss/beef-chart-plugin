@@ -36,7 +36,7 @@ An interactive beef cuts visualization plugin for WordPress that allows butchers
 3. Click **Install Now** and then **Activate**
 
 ### Method 2: Manual Installation
-1. Download the plugin ZIP file from [GitHub Releases](https://github.com/yourusername/beef-chart-plugin/releases)
+1. Download the plugin ZIP file from [GitHub Releases](https://github.com/yelmouss/beef-chart-plugin/releases)
 2. Go to **Plugins > Add New > Upload Plugin**
 3. Upload the ZIP file and click **Install Now**
 4. Activate the plugin
