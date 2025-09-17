@@ -1,4 +1,4 @@
-# Beef Chart for WordPress
+# French Beef Cuts Chart for WordPress
 
 [![WordPress Plugin Version](https://img.shields.io/badge/WordPress-5.0+-blue.svg)](https://wordpress.org/)
 [![PHP Version](https://img.shields.io/badge/PHP-7.4+-purple.svg)](https://php.net/)
@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/beef-chart-plugin)](https://github.com/yourusername/beef-chart-plugin/issues)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/beef-chart-plugin)](https://github.com/yourusername/beef-chart-plugin/stargazers)
 
-An interactive beef cuts visualization plugin for WordPress that allows butchers and meat shops to display their beef cuts with real-time pricing on an interactive SVG map.
+An interactive French beef cuts visualization plugin for WordPress that allows butchers and meat shops to display their beef cuts with real-time pricing on an interactive SVG map. Not affiliated with any third-party entity.
 
 ## 🌟 Features
 
@@ -32,7 +32,7 @@ An interactive beef cuts visualization plugin for WordPress that allows butchers
 
 ### Method 1: WordPress Admin (Recommended)
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "Beef Chart Plugin"
+2. Search for "Yelmouss French Beef Cuts Chart"
 3. Click **Install Now** and then **Activate**
 
 ### Method 2: Manual Installation
@@ -59,14 +59,14 @@ wp plugin activate beef-chart-plugin
 
 ### Shortcode Usage
 ```php
-[beef_chart]
-[beef_chart width="800px" height="500px"]
-[beef_chart width="100%" height="600px"]
+[fbcc_beef_chart]
+[fbcc_beef_chart width="800px" height="500px"]
+[fbcc_beef_chart width="100%" height="600px"]
 ```
 
 ### Gutenberg Block
 1. Add a new block in the Gutenberg editor
-2. Search for "Beef Chart"
+2. Search for "French Beef Cuts Chart"
 3. Configure width and height as needed
 
 ## 🔧 Requirements
@@ -116,7 +116,7 @@ Current language support:
 ### Setup for Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/beef-chart-plugin.git
+git clone https://github.com/yelmouss/beef-chart-plugin.git
 cd beef-chart-plugin
 
 # Install dependencies (if any)
@@ -238,8 +238,8 @@ For custom development, premium support, or consulting:
 *Empowering butchers with modern web technology*
 
 **Options du shortcode :**
-```
-[beef_chart width="100%" height="600px"]
+``` 
+[fbcc_beef_chart width="100%" height="600px"]
 ```
 
 - `width` : Largeur du graphique (par défaut : 100%)

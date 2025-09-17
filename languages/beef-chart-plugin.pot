@@ -1,0 +1,178 @@
+# Copyright (C) 2025 Coherence Agence Digitale
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Beef Chart Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/yourusername/beef-chart-plugin/issues\n"
+"POT-Creation-Date: 2025-09-10 09:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: beef-chart-plugin.php:50
+msgid "Beef Chart Admin"
+msgstr ""
+
+#: beef-chart-plugin.php:51
+msgid "Beef Chart"
+msgstr ""
+
+#: beef-chart-plugin.php:220
+msgid "Données mises à jour avec succès !"
+msgstr ""
+
+#: beef-chart-plugin.php:240
+msgid "Nom de la coupe"
+msgstr ""
+
+#: beef-chart-plugin.php:241
+msgid "Prix (€/kg)"
+msgstr ""
+
+#: beef-chart-plugin.php:242
+msgid "Disponible"
+msgstr ""
+
+#: beef-chart-plugin.php:250
+msgid "Paramètres du Graphique de Bœuf"
+msgstr ""
+
+#: beef-chart-plugin.php:251
+msgid "Modifiez les prix et la disponibilité des coupes de bœuf."
+msgstr ""
+
+#: beef-chart-plugin.php:255
+msgid "📊 Aperçu du graphique"
+msgstr ""
+
+#: beef-chart-plugin.php:256
+msgid "Cette section affiche un aperçu du graphique tel qu'il apparaîtra sur votre site."
+msgstr ""
+
+#: beef-chart-plugin.php:270
+msgid "Mettre à jour toutes les données"
+msgstr ""
+
+#: beef-chart-plugin.php:275
+msgid "Utilisation du plugin"
+msgstr ""
+
+#: beef-chart-plugin.php:276
+msgid "Pour afficher le graphique sur une page, utilisez le shortcode suivant :"
+msgstr ""
+
+#: beef-chart-plugin.php:279
+msgid "Ou utilisez le bloc \"Beef Chart\" dans l'éditeur Gutenberg."
+msgstr ""
+
+#: beef-chart-plugin.php:281
+msgid "Instructions"
+msgstr ""
+
+#: beef-chart-plugin.php:283
+msgid "Modifiez les prix en entrant de nouvelles valeurs"
+msgstr ""
+
+#: beef-chart-plugin.php:284
+msgid "Décochez la case \"Disponible\" pour masquer une coupe du graphique"
+msgstr ""
+
+#: beef-chart-plugin.php:285
+msgid "Cliquez sur \"Mettre à jour\" pour sauvegarder les changements"
+msgstr ""
+
+#: beef-chart-plugin.php:286
+msgid "Les modifications sont appliquées immédiatement sur le site"
+msgstr ""
+
+#: beef-chart-plugin.php:288
+msgid "Personnalisation"
+msgstr ""
+
+#: beef-chart-plugin.php:289
+msgid "Vous pouvez personnaliser l'apparence en modifiant les paramètres du shortcode :"
+msgstr ""
+
+#: beef-chart-plugin.php:291
+msgid "Dimensions personnalisées"
+msgstr ""
+
+#: beef-chart-plugin.php:292
+msgid "Largeur responsive"
+msgstr ""
+
+#: beef-chart-final-complete.js:25
+msgid "🐄 Carte des Coupes de Bœuf"
+msgstr ""
+
+#: beef-chart-final-complete.js:26
+msgid "Chargement de la carte..."
+msgstr ""
+
+#: beef-chart-final-complete.js:30
+msgid "❌ Erreur: ECharts n'est pas chargé. Vérifiez votre connexion internet."
+msgstr ""
+
+#: beef-chart-final-complete.js:75
+msgid "Prix des coupes"
+msgstr ""
+
+#: beef-chart-final-complete.js:76
+msgid "Prix: "
+msgstr ""
+
+#: beef-chart-final-complete.js:77
+msgid "€/kg"
+msgstr ""
+
+#: beef-chart-final-complete.js:95
+msgid "French Beef Cuts"
+msgstr ""
+
+#: beef-chart-final-complete.js:125
+msgid "Erreur lors du chargement du SVG: "
+msgstr ""
+
+#: beef-chart-final-complete.js:135
+msgid "Erreur lors de la création de la carte: "
+msgstr ""
+
+#: beef-chart-final-complete.js:155
+msgid "Aucune coupe de bœuf disponible"
+msgstr ""
+
+#: beef-chart-final-complete.js:159
+msgid "Aucune donnée trouvée dans la base de données"
+msgstr ""
+
+#: beef-chart-final-complete.js:165
+msgid "❌ Erreur de chargement des données: "
+msgstr ""
+
+#: beef-chart-final-complete.js:169
+msgid "❌ Configuration AJAX manquante"
+msgstr ""
+
+#: beef-chart-plugin.php:350
+msgid "Security check failed"
+msgstr ""
+
+#: beef-chart-plugin.php:355
+msgid "Insufficient permissions"
+msgstr ""
+
+#: beef-chart-plugin.php:365
+msgid "Data updated successfully"
+msgstr ""
+
+#: beef-chart-plugin.php:367
+msgid "Failed to update data"
+msgstr ""
+
+#: beef-chart-plugin.php:375
+msgid "No data found"
+msgstr ""
